@@ -8,7 +8,7 @@ var andiVersionNumber = "28.0.1";
 // ANDI CONFIG: //
 //==============//
 //URLs
-var host_url = "https://ancarolm.github.io/ANDI/andi";
+var host_url = "https://ancarolm.github.io/ANDI/andi/";
 var help_url = host_url+"help/";
 var icons_url = host_url+"icons/";
 
